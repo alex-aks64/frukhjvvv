@@ -1,3 +1,3 @@
 import import1 as i1
 
-i1.a
+i1.i
