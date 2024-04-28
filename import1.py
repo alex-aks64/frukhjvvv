@@ -1,3 +1,2 @@
-a="Hello world "*2
-
-print(a,)
+for i in 1,2:
+    print('Heloo world')
