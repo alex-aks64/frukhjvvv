@@ -1,2 +1,8 @@
-for i in 1,2:
-    print('Heloo world')
+
+def hey_(nam="World!"):
+    print("Hello", nam)
+
+hey_()
+
+
+hey_(nam="world")
