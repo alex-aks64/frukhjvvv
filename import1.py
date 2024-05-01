@@ -5,4 +5,7 @@ def hey_(nam="World!"):
 hey_()
 
 
-hey_(nam="world")
+def hi (a='Hello world'):
+    print(a)
+hi()
+
