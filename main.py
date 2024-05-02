@@ -1,4 +1,4 @@
 import import1 as i1
+print(i1.a)
 
-i1.hey_
-i1.hi
+print(i1.b)
