@@ -1,11 +1,6 @@
-
-def hey_(nam="World!"):
-    print("Hello", nam)
-
-hey_()
-
-
-def hi (a='Hello world'):
-    print(a)
-hi()
-
+a='Hello worold'
+def hi():
+    hi_
+b="hello worold"
+def he_():
+    he_()
